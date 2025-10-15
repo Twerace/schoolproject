@@ -1,0 +1,5 @@
+file-config:
+  img-address: c:/file/image/
+  img-http-address: http://localhost:8081/image/
+  pdf-address: c:/file/pdf/
+  pdf-http-address: http://localhost:8081/pdf/

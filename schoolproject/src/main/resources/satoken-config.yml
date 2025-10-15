@@ -1,0 +1,4 @@
+satoken-config:
+  verify-key: 123456
+  whitelist:
+        /user/login
